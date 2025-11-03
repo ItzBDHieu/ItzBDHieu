@@ -5,7 +5,6 @@ I'm the average human<br>Science skills (with my current school education)<br>Ch
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzbdhieu) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/itzbdhieu) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@itzbdhieu) 
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Code)](https://git.io/typing-svg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
@@ -16,8 +15,7 @@ I'm the average human<br>Science skills (with my current school education)<br>Ch
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
-
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Games)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=435&lines=Games)](https://git.io/typing-svg)
 ![Minecraft](https://img.shields.io/badge/-Minecraft-3C8527?style=flat&logo=minecraft&logoColor=white)
 ![Pokemon](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white)
 ![Hollow Knight](https://img.shields.io/badge/-Hollow%20Knight-A9A9A9?style=flat&logo=hollow-knight&logoColor=white)
