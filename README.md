@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%60m+Hieu)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I%60m+Hieu)](https://git.io/typing-svg)
 I'm the average human<br>Science skills (with my current school education)<br>Chemistry: 8.5/10<br>Biology: 8.75/10<br>Physics: 9/10<br>
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Social)](https://git.io/typing-svg)
 
