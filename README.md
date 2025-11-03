@@ -8,6 +8,8 @@ I'm the average human<br>Science skills (with my current school education)<br>Ch
 ![](https://github-readme-stats.vercel.app/api?username=itzbdhieu&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=itzbdhieu&theme=darcula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzbdhieu&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Games)](https://git.io/typing-svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itzbdhieu&icon=0&color=7)](https://visitcount.itsvg.in)
