@@ -16,12 +16,12 @@ I'm the average human<br>Science skills (with my current school education)<br>Ch
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) 
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=flat&logo=Aseprite&logoColor=#7D929E)
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Stats)](https://git.io/typing-svg)
-![](https://github-readme-stats.vercel.app/api?username=itzbdhieu&theme=darcula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=itzbdhieu&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzbdhieu&theme=darcula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Games)](https://git.io/typing-svg)
-[![Minecraft](https://img.shields.io/badge/-Minecraft-3C8527?style=flat&logo=minecraft&logoColor=white)
-[![Pokemon](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white)
+![Minecraft](https://img.shields.io/badge/-Minecraft-3C8527?style=flat&logo=minecraft&logoColor=white)
+![Pokemon](https://img.shields.io/badge/-Pokémon-FFCB05?style=flat&logo=pokemon&logoColor=white)
+![Hollow Knight](https://img.shields.io/badge/-Hollow%20Knight-A9A9A9?style=flat&logo=hollow-knight&logoColor=white)
+![Silksong](https://img.shields.io/badge/-Silksong-D22B2B?style=flat&logo=silk-song&logoColor=white)
+![Geometry Dash](https://img.shields.io/badge/-Geometry%20Dash-FFEA00?style=flat&logo=geometry-dash&logoColor=white)
 
 [![](https://visitcount.itsvg.in/api?id=itzbdhieu&icon=0&color=7)](https://visitcount.itsvg.in)
